@@ -1,4 +1,4 @@
-package top.defaults.view;
+package top.defaults.checkerboarddrawable;
 
 import org.junit.Test;
 

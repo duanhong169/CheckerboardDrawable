@@ -1,4 +1,4 @@
-package top.defaults.view;
+package top.defaults.checkerboarddrawable;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

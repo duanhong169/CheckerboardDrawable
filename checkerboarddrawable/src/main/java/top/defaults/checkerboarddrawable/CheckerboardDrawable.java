@@ -1,4 +1,4 @@
-package top.defaults.view;
+package top.defaults.checkerboarddrawable;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapShader;
